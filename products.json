@@ -1,0 +1,52 @@
+{
+"products": [
+    {
+        "sys": {"id": "1"},
+        "title": "bouquet1",
+        "price": 5.00,
+        "image": {"url": "./img/bouquet.jpg"}
+    },
+    {
+        "sys": {"id": "2"},
+        "title": "bouquet2",
+        "price": 8.50,
+        "image": {"url": "./img/flower9.jpg"}
+    },
+    {
+        "sys": {"id": "3"},
+        "title": "bouquet3",
+        "price": 6.50,
+        "image": {"url": "./img/flower6.jpg"}
+    },
+    {
+        "sys": {"id": "4"},
+        "title": "bouquet4",
+        "price": 6.50,
+        "image": {"url": "./img/flower7.jpg"}
+    },
+    {
+        "sys": {"id": "5"},
+        "title": "bouquet5",
+        "price": 6.50,
+        "image": {"url": "./img/flower8.jpg"}
+    },
+    {
+        "sys": {"id": "6"},
+        "title": "bouquet6",
+        "price": 8.00,
+        "image": {"url": "./img/flower5.jpg"}
+    },
+    {
+        "sys": {"id": "7"},
+        "title": "bouquet7",
+        "price": 7.50,
+        "image": {"url": "./img/flower4.jpg"}
+    },
+    {
+        "sys": {"id": "8"},
+        "title": "bouquet8",
+        "price": 6.50,
+        "image": {"url": "./img/geranium.jpg"}
+    }
+]
+}
